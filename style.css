@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.container{
+.p-message-wrapper{
     display: flex;
     width: 100%;
     height: 100vh;
@@ -12,17 +12,16 @@
     align-items: center;
 }
 
-.baground{
+.ng-tns-c55-3{
     display: flex;
     width: 40%;
 }
 
-.texto{
+.ng-star-inserted{
     display: flex;
     width: 100%;
     background-color: #feecb3;
     border-radius: 3px;
     border-left: 6px solid #d9a300;
-
     padding: 20px 30px ; 
 }
